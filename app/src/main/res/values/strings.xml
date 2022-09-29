@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">entershop</string>
+    <string-array name="characters">
+        <item>Sonic</item>
+        <item>Shadow</item>
+        <item>Eggman</item>
+    </string-array>
+
+    <string-array name="SonicForms">
+        <item>Modern Sonic</item>
+        <item>Classic Sonic</item>
+        <item>Super Sonic</item>
+        <item>Werehog Sonic</item>
+        <item>Darkspine Sonic</item>
+        <item>Knight Sonic</item>
+        <item>Sonic's forms with Wisps</item>
+    </string-array>
+
+    <string-array name="ShadowForms">
+        <item>Simple Shadow</item>
+        <item>Super Shadow</item>
+    </string-array>
+
+    <string-array name="EggmanForms">
+        <item>Dr. Robotnic</item>
+        <item>Classic Sonic</item>
+        <item>Super Sonic</item>
+        <item>Werehog Sonic</item>
+        <item>Darkspine Sonic</item>
+    </string-array>
+</resources>
