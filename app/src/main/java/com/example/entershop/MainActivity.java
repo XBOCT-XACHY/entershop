@@ -2,6 +2,7 @@ package com.example.entershop;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -13,7 +14,7 @@ import java.io.Console;
 public class MainActivity extends AppCompatActivity {
 
     ListView listView;
-    String[] forms;
+    String selected;
     int position;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,14 +31,23 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                 switch (position){
                     case 0:
-
+                        selected ="Sonic";
+                        nextactiv();
                         break;
                     case 1:
+                        selected = "Shadow";
+                        nextactiv();
                         break;
                     case 2:
+                        selected = "Eggman";
+                        nextactiv();
                         break;
             }
         }});
-
+    }
+    void nextactiv(){
+        Intent intent = new Intent(this, Chose_forms.class);
+        intent.putExtra("selected", selected);
+        startActivity(intent);
     }
 }

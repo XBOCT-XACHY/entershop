@@ -6,26 +6,18 @@
         <item>Eggman</item>
     </string-array>
 
-    <string-array name="SonicForms">
+    <string-array name="sonicforms">
         <item>Modern Sonic</item>
         <item>Classic Sonic</item>
         <item>Super Sonic</item>
-        <item>Werehog Sonic</item>
-        <item>Darkspine Sonic</item>
-        <item>Knight Sonic</item>
-        <item>Sonic's forms with Wisps</item>
     </string-array>
 
-    <string-array name="ShadowForms">
+    <string-array name="shadowforms">
         <item>Simple Shadow</item>
         <item>Super Shadow</item>
     </string-array>
 
-    <string-array name="EggmanForms">
+    <string-array name="eggmanforms">
         <item>Dr. Robotnic</item>
-        <item>Classic Sonic</item>
-        <item>Super Sonic</item>
-        <item>Werehog Sonic</item>
-        <item>Darkspine Sonic</item>
     </string-array>
 </resources>
