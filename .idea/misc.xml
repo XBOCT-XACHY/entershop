@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_chose_forms.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_info_aboutform.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Ayaz-/AndroidStudioProjects/entershop/app/src/main/res/layout/activity_chose_forms.xml" value="0.1" />
+        <entry key="..\:/Users/Ayaz-/AndroidStudioProjects/entershop/app/src/main/res/layout/activity_info_aboutform.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Ayaz-/AndroidStudioProjects/entershop/app/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
       </map>
     </option>
